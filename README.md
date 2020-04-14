@@ -1,2 +1,2 @@
-# CodingBat.py
+# CodingBat
 CodingBat coding exercises
